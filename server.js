@@ -31,8 +31,8 @@ app.get('/getFilms', function (req, res) {
         var movie = movies["movie" + req.params.id] 
         if (data[movie]) {
             delete data[movie];
-            console.log( data );
-             res.end( data );
+            console.log(data);
+            res.end(JSON.stringify(data));
         }
     });
 });
