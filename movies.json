@@ -1,0 +1,44 @@
+{
+    "movie1" : {
+       "movie_Name" : "Predator",
+       "played_by": "Arnold Schwarzenegger as Dutch",
+       "Genre": "Action · Adventure · Horror · Sci-Fi",
+       "IMDB_LINK" : "https://www.imdb.com/title/tt0093773/fullcredits"
+    },
+    
+    "movie2" : {
+        "movie_Name" : "A Night at the Roxbury",
+        "played_by": "Will Ferrell",
+        "Genre": "Comedy · Music · Romance",
+        "IMDB_LINK" : "https://www.imdb.com/title/tt0120770/?ref_=nv_sr_srsg_0_tt_6_nm_2_q_night%2520at%2520the%2520r"
+     },
+
+     "movie3" : {
+        "movie_Name" : "Happy Gilmore",
+        "played_by": "Adam Sandler",
+        "Genre": "Comedy · Sport",
+        "IMDB_LINK" : "https://www.imdb.com/title/tt0116483/?ref_=nv_sr_srsg_0_tt_6_nm_2_q_happy%2520gil"
+     },
+
+     "movie4" : {
+        "movie_Name" : "Mortal Kombat (1995)",
+        "played_by": "Robin Shou",
+        "Genre": "Action · Adventure · Fantasy · Sci-Fi · Thriller",
+        "IMDB_LINK" : "https://www.imdb.com/title/tt0113855/"
+     },
+
+     "movie5" : {
+        "movie_Name" : "Commando",
+        "played_by": "Arnold Schwarzenegger",
+        "Genre": "Action · Adventure · Thriller",
+        "IMDB_LINK" : "https://www.imdb.com/title/tt0088944/?ref_=nv_sr_srsg_0_tt_8_nm_0_q_Commando"
+     },
+    
+    "movie6" : {
+        "movie_Name" : "Home Alone",
+        "played_by": "Macaulay Culkin",
+        "Genre": "Comedy · Family",
+        "IMDB_LINK" : "https://www.imdb.com/title/tt0099785/"
+     }
+     
+ }
